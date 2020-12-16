@@ -1,1 +1,2 @@
-# C-27-constrain-bodies
+# angryBirdsStage2.5
+Angry Birds stage 2.5 with Class Inheritance and Images
